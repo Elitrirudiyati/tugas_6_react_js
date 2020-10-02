@@ -1,4 +1,4 @@
-// import React, {Component} from 'react';
+import React, {Component} from 'react';
 import DaftarMakanan from "../Lib/DaftarMakanan";
 import Header from "./Header"
 
@@ -22,7 +22,7 @@ class MenuMakanan extends Component{
 								 			height='100'
 								 		/>
 								 		<p>{data.NamaMakanan} </p>
-								 		<p>Harga : Rp. {data.harga}</p>
+								 		<p>Harga : Rp. {data.Harga}</p>
 								 	</center>
 								 </td>
 								 );

@@ -1,6 +1,6 @@
 import React, {Component} from "react";
-import Header from 'Header';
-import "../Style.Kontak.css";
+import Header from './Header';
+import "../Style/Kontak.css";
 
 
 class Kontak extends Component{

@@ -23,7 +23,7 @@ class MenuMinuman extends Component{
 								 			height='100'
 								 		/>
 								 		<p>{data.NamaMinuman} </p>
-								 		<p>Harga : Rp. {data.harga}</p>
+								 		<p>Harga : Rp. {data.Harga}</p>
 								 	</center>
 								 </td>
 								 );
